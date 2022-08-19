@@ -1,0 +1,103 @@
+#mainContainer {
+    background-color: #3AAFA9;
+    height: 100vh;
+}
+
+.formLabel {
+    color: #17252A;
+    font-weight: bold;
+}
+
+.formControl {
+    background-color: #DEF2F1;
+}
+
+.formControlNum {
+    background-color: #DEF2F1;
+    color: #17252A;
+}
+
+.formControlFeedback {
+    color: #F76C6C;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.formCheckBox {
+    color: #17252A;
+}
+
+.errMCQ {
+    font-size: 15px;
+    color: #F76C6C;
+    font-weight: bold;
+}
+
+.formSwitch {
+    color: #17252A;
+    font-weight: bold;
+}
+
+.welcomeMessage {
+    color: #17252A;
+    font-weight: bold;
+    border: 2px solid;
+    border-radius: 8px;
+    padding: 5px 5px 5px 5px;
+}
+
+.card {
+    width: 20rem;
+    height: 10rem;
+    margin: 20px;
+}
+
+.cardBody {
+    background-color: #17252A;
+}
+
+.cardTitle {
+    color: #DEF2F1;
+}
+
+.cardFooter {
+    background-color: #F76C6C;
+    color: #FEFFFF;
+}
+
+.linkNav {
+    font-weight: bold;
+}
+
+.linkNavActive {
+    color: #17252A ;
+    font-weight: bold;
+}
+
+.navBar {
+    background-color: #3AAFA9 !important;
+    border: 2px solid !important;
+    border-color: #17252A !important;
+    border-radius: 8px !important;
+}
+
+.navBarBrand {
+    font-weight: bold !important;
+    color: #17252A !important;
+}
+
+.formSubmit {
+    border-radius: 8px;
+    border-color: #17252A;
+    color: #17252A;
+    border: 2px solid;
+    background-color: #FEFFFF;
+}
+
+.formSubmit:hover, .formSubmit:focus, .formSubmit:disabled {
+    border-radius: 8px;
+    border-color: #17252A;
+    background-color: #17252A;
+    border: 2px solid;
+    color: #FEFFFF;
+}
